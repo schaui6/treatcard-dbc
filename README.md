@@ -11,4 +11,4 @@ iOS application to send and receive digital thank you cards developed in a week.
 
 ## Screenshots
 
-![screenshot](/treatcard.png)
+![screenshot](/0888e85c-565a-4689-aa68-7b96fdc80530-large.jpeg)
